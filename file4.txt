@@ -1,3 +1,6 @@
 Archivo de prueba en rama branch_2, file 4
 
 Archivo en rama branch_1, prueba de merge
+
+
+Cambios con repositorio remoto
